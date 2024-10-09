@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "MultplayerTestFrog",
+			"Path": "..\\Source\\MultplayerTestFrog.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "MultplayerTestFrogEditor",
+			"Path": "..\\Source\\MultplayerTestFrogEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}
